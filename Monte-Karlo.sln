@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Monte-Karlo", "Monte-Karlo.vfproj", "{DE4BFF81-8C7A-4B03-9E4B-3F3091782673}"
+EndProject
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Monte-KarloMultiplePart", "..\..\..\..\Documents\Код\Fortran\QWin1\Monte-KarloMultiplePart.vfproj", "{05B5E70A-9105-4689-8278-DFF016097ACB}"
+EndProject
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Monte-KarloKDependence", "..\..\..\..\Documents\Код\Fortran\Monte-KarloKDependence\Monte-KarloKDependence.vfproj", "{3842DB42-2919-45DE-8886-3AC5D1421BC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4BFF81-8C7A-4B03-9E4B-3F3091782673}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE4BFF81-8C7A-4B03-9E4B-3F3091782673}.Debug|x86.Build.0 = Debug|Win32
+		{DE4BFF81-8C7A-4B03-9E4B-3F3091782673}.Release|x86.ActiveCfg = Release|Win32
+		{DE4BFF81-8C7A-4B03-9E4B-3F3091782673}.Release|x86.Build.0 = Release|Win32
+		{05B5E70A-9105-4689-8278-DFF016097ACB}.Debug|x86.ActiveCfg = Debug|Win32
+		{05B5E70A-9105-4689-8278-DFF016097ACB}.Debug|x86.Build.0 = Debug|Win32
+		{05B5E70A-9105-4689-8278-DFF016097ACB}.Release|x86.ActiveCfg = Release|Win32
+		{05B5E70A-9105-4689-8278-DFF016097ACB}.Release|x86.Build.0 = Release|Win32
+		{3842DB42-2919-45DE-8886-3AC5D1421BC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3842DB42-2919-45DE-8886-3AC5D1421BC6}.Debug|x86.Build.0 = Debug|Win32
+		{3842DB42-2919-45DE-8886-3AC5D1421BC6}.Release|x86.ActiveCfg = Release|Win32
+		{3842DB42-2919-45DE-8886-3AC5D1421BC6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C0DE5D5-0278-4B01-99B6-A32BD29FCF16}
+	EndGlobalSection
+EndGlobal
